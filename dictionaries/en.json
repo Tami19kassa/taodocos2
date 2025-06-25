@@ -29,7 +29,7 @@
    "about": {
     "title": "Your Teacher & Guide",
     "greeting": "Selam! I am Tefera Tilahun",
-    "paragraph": "I have been passionately playing and studying the Begena for over 15 years. Rooted in the timeless traditions of the Ethiopian Orthodox Church, my mission is to pass on this divine art to a new generation. I believe music is a prayer, and I am here to guide you on every step of your spiritual and musical journey."
+    "paragraph": "I have been passionately playing and studying the Begena for over 10 years. Rooted in the timeless traditions of the Ethiopian Orthodox Church, my mission is to pass on this divine art to a new generation. I believe music is a prayer, and I am here to guide you on every step of your spiritual and musical journey."
   },
   "features": {
     "title": "Why Learn With Us?",
@@ -51,12 +51,12 @@
     "basic_feature2": "Access to Community Chat",
     "basic_feature3": "Beginner Song Sheets",
     "standard_title": "Standard",
-    "standard_price": "$100",
+    "standard_price": "$65",
     "standard_feature1": "Weekly Individual Lessons",
     "standard_feature2": "Personalized Feedback",
     "standard_feature3": "All Basic Features",
     "premium_title": "Premium",
-    "premium_price": "$150",
+    "premium_price": "$80",
     "premium_feature1": "Weekly Individual Lessons",
     "premium_feature2": "Extra Learning Materials",
     "premium_feature3": "Priority Scheduling",
