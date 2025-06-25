@@ -84,7 +84,7 @@ export default function Testimonials({ dict, lang }) {
                 <blockquote className="text-gray-600 dark:text-gray-300 italic mb-6 flex-grow">
                   <span className="text-4xl text-gold-light dark:text-gold-dark font-serif absolute -left-1 -top-1">“</span>
                   {/* It now reads the review directly, selecting 'en' or 'am' based on the lang prop */}
-                  <p className="pl-6">"{testimonial.review[lang]}"</p>
+                  <p className="pl-6">{testimonial.review[lang]}</p>
                 </blockquote>
                 <figcaption className="flex items-center mt-4">
                   <img src={testimonial.image} alt={testimonial.name[lang]} className="w-14 h-14 rounded-full mr-4 object-cover border-2 border-blue-200 dark:border-gold" />
