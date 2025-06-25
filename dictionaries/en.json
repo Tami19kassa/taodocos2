@@ -1,0 +1,84 @@
+
+{
+    "mezmur": {
+    "title": "Sample Mezmurs",
+    "video1_title": "Mezmur of Praise",
+    "video2_title": "Reflection in Melody",
+    "video3_title": "Song of David's Harp"
+},
+  "nav": {
+    "brandName": "Taodocos Begena",
+    "features": "Why Us",
+    
+    "pricing": "Pricing",
+    "gallery": "Gallery",
+    "testimonials": "Reviews",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Learn the Divine Art of the Begena",
+    "subtitle": "Timeless Melodies for the Modern Soul. Join our community and master King David's Harp with expert guidance.",
+    "cta": "Choose Your Plan"
+  },
+   "mission": {
+    "title": "A Bridge to Sacred Sound",
+    "paragraph1": "Taodocos Begena is more than just a school; it is a mission to preserve and share the sacred tradition of the Begena. Our teaching is deeply rooted in the spiritual practices of the Ethiopian Orthodox Tewahedo Church, connecting each note to its purpose in prayer and meditation.",
+    "paragraph2": "We believe this timeless art should be accessible to everyone, no matter where they are. Through modern technology and a supportive community, we bring the ancient strings of King David's Harp to your fingertips, helping you find your own voice in this divine musical heritage.",
+    "cta": "Explore the Lessons"
+  },
+   "about": {
+    "title": "Your Teacher & Guide",
+    "greeting": "Selam! I am [Your Name]",
+    "paragraph": "I have been passionately playing and studying the Begena for over 15 years. Rooted in the timeless traditions of the Ethiopian Orthodox Church, my mission is to pass on this divine art to a new generation. I believe music is a prayer, and I am here to guide you on every step of your spiritual and musical journey."
+  },
+  "features": {
+    "title": "Why Learn With Us?",
+    "expert": "Expert Instructors",
+    "expert_desc": "Learn from seasoned Begena players with deep roots in traditional and spiritual music.",
+    "flexible": "Flexible Scheduling",
+    "flexible_desc": "We offer various time slots to fit your busy life. Learn at your own pace.",
+    "personalized": "Personalized Lessons",
+    "personalized_desc": "Our individual plans are tailored to your unique skill level and learning goals.",
+    "community": "Supportive Community",
+    "community_desc": "Join a group of fellow learners who share your passion for the Begena and its spiritual heritage."
+  },
+  "pricing": {
+    "title": "Our Monthly Plans",
+    "subtitle": "Choose the plan that's right for you.",
+    "basic_title": "Basic",
+    "basic_price": "$50",
+    "basic_feature1": "Weekly Group Lessons",
+    "basic_feature2": "Access to Community Chat",
+    "basic_feature3": "Beginner Song Sheets",
+    "standard_title": "Standard",
+    "standard_price": "$100",
+    "standard_feature1": "Weekly Individual Lessons",
+    "standard_feature2": "Personalized Feedback",
+    "standard_feature3": "All Basic Features",
+    "premium_title": "Premium",
+    "premium_price": "$150",
+    "premium_feature1": "Weekly Individual Lessons",
+    "premium_feature2": "Extra Learning Materials",
+    "premium_feature3": "Priority Scheduling",
+    "cta": "Get Started"
+  },
+  "gallery": {
+    "title": "Our Community in Harmony"
+  },
+  "testimonials": {
+    "title": "What Our Students Say",
+    "student1_name": "Hanna T.",
+    "student1_review": "\"I never thought I could learn the Begena online, but the lessons are so clear and the instructor is incredibly patient. It has deepened my spiritual life.\"",
+    "student2_name": "Daniel M.",
+    "student2_review": "\"The individual lessons are fantastic. I've progressed so much faster than I expected. Highly recommend to anyone serious about learning.\""
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have questions? We'd love to hear from you. Reach out via email or connect with me directly on Telegram.",
+    "email_cta": "Send Us an Email",
+    "telegram_cta": "Chat on Telegram"
+  },
+  "footer": {
+    "copyright": "Begena Lessons. All Rights Reserved."
+  }
+}

@@ -1,26 +1,44 @@
-@import "tailwindcss";
+/* Import new elegant serif font for headings */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Ethiopic:wght@400;700&display=swap');
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+@layer base {
+  html, body {
+    @apply scroll-smooth bg-gray-50 text-gray-700 dark:bg-gray-900 dark:text-gray-300;
+  }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  /* Style for the textured dark mode background */
+  .dark body {
+    background-image: radial-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+    background-size: 16px 16px;
+  }
+
+  /* Custom heading styles */
+  h1, h2, h3 {
+    @apply font-serif text-gray-900 dark:text-white;
   }
 }
 
+/* Apply the fonts based on the lang attribute */
+:lang(en) {
+  --font-family-body: 'Inter', sans-serif;
+  --font-family-serif: 'Playfair Display', serif;
+}
+:lang(am) {
+  --font-family-body: 'Noto Sans Ethiopic', sans-serif;
+  --font-family-serif: 'Noto Sans Ethiopic', sans-serif;
+  --font-weight-serif: 700;
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-family-body);
+}
+
+.font-serif {
+  font-family: var(--font-family-serif);
+  font-weight: var(--font-weight-serif, 700);
 }

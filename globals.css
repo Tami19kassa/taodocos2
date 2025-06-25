@@ -1,0 +1,30 @@
+/* app/globals.css - FINAL VERSION */
+
+/* Import all fonts directly */
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Ethiopic:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body {
+    @apply scroll-smooth bg-earth-100 text-earth-700 dark:bg-gray-900 dark:text-gray-300;
+  }
+  
+  /* Use CSS to apply the correct body font based on the html lang attribute */
+  html[lang="en"] body {
+    font-family: 'Noto Sans', sans-serif;
+  }
+  html[lang="am"] body {
+    font-family: 'Noto Sans Ethiopic', sans-serif;
+  }
+  
+  .dark body {
+    background-image: radial-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+    background-size: 16px 16px;
+  }
+}
