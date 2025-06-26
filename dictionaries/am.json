@@ -50,13 +50,13 @@
     "basic_feature1": "ሳምንታዊ የቡድን ትምህርት",
     "basic_feature2": "የማህበረሰብ ውይይት መድረክ",
     "basic_feature3": "የጀማሪ መዝሙር ኖታዎች",
-    "standard_title": "ስታንዳርድ",
-    "standard_price": "$65",
+    "standard_title": "መደበኛ",
+    "standard_price": "$57",
     "standard_feature1": "ሳምንታዊ የግል ትምህርት",
     "standard_feature2": "የግል አስተያየት እና ክትትል",
     "standard_feature3": "ሁሉንም የመሰረታዊ ጥቅሞች ያካትታል",
-    "premium_title": "ፕሪሚየም",
-    "premium_price": "$80",
+    "premium_title": "ልዩ ስልጠና",
+    "premium_price": "$65",
     "premium_feature1": "ሳምንታዊ የግል ትምህርት",
     "premium_feature2": "ተጨማሪ የትምህርት መርጃዎች",
     "premium_feature3": "ቅድሚያ የጊዜ ሰሌዳ",
@@ -67,10 +67,7 @@
   },
   "testimonials": {
     "title": "ተማሪዎቻችን ስለ እኛ ምን ይላሉ",
-    "student1_name": "ሃና ጽ.",
-    "student1_review": "\"በኦንላይን በገና መማር እችላለሁ ብዬ አስቤ አላውቅም ነበር፣ ነገር ግን ትምህርቶቹ በጣም ግልጽ ናቸው እና መምህሩ በሚያስደንቅ ሁኔታ ታጋሽ ነው። መንፈሳዊ ህይወቴን አሳድጎልኛል።\"",
-    "student2_name": "ዳንኤል መ.",
-    "student2_review": "\"የግል ትምህርቶቹ በጣም ጥሩ ናቸው። ከጠበቅኩት በላይ በፍጥነት ተሻሽያለሁ። ለመማር ፍላጎት ላለው ለማንኛውም ሰው አጥብቄ እመክራለሁ።\""
+    
   },
   "contact": {
     "title": "ያግኙን",
