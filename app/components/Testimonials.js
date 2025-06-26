@@ -13,7 +13,7 @@ const testimonials = [
   {
     name: {
       en: "Anteneh Gode",
-      am: "አንተህ ጎዴ", // Example Amharic name
+      am: "አንተነህ ጎዴ", // Example Amharic name
     },
     review: {
       en: "Tefere at the Taodocos Institute is a skilled and patient harp trainer who knows the instrument inside and out.",
