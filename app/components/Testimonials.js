@@ -12,7 +12,7 @@ import Marquee from "react-fast-marquee";
 const testimonials = [
   {
     name: {
-      en: "Anterh Gode",
+      en: "Anteneh Gode",
       am: "አንተህ ጎዴ", // Example Amharic name
     },
     review: {
@@ -35,7 +35,7 @@ const testimonials = [
   {
     name: {
       en: "Kidist",
-      am: "ኪዲስት", // Example Amharic name
+      am: "ቅድስት", // Example Amharic name
     },
     review: {
       en: "I found him on a whim and now my house is filled with begena sounds again. He is an inspiration to learn from.",
@@ -45,8 +45,8 @@ const testimonials = [
   },
   {
     name: {
-      en: "Abdulkemsis",
-      am: "አብዱልከምሲስ", // Example Amharic name
+      en: "Abdulkelemsis",
+      am: "አብዱልቀለምሲስ", // Example Amharic name
     },
     review: {
       en: "I met Tefera when he was teaching 'Begena' at St. John's Church. When he was teaching, he tried to reach everyone.",
