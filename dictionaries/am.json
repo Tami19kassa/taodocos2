@@ -60,7 +60,9 @@
     "premium_feature1": "ሳምንታዊ የግል ትምህርት",
     "premium_feature2": "ተጨማሪ የትምህርት መርጃዎች",
     "premium_feature3": "ቅድሚያ የጊዜ ሰሌዳ",
-    "cta": "አሁኑኑ ይጀምሩ"
+    "cta": "አሁኑኑ ይጀምሩ",
+    "month": "ወር",
+    "standard":"የብዙዎች ምርጫ"
   },
   "gallery": {
     "title": "ማህበረሰባችን በዜማ"
