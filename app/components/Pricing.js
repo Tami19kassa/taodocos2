@@ -20,7 +20,7 @@ export default function Pricing({ dict }) {
         <div className="grid lg:grid-cols-3 gap-8 items-center max-w-5xl mx-auto">
           {plans.map((plan) => (
             <div key={plan.key} className={`relative bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-8 transform transition-transform duration-300 ${plan.popular ? 'lg:scale-105 border-2 border-gold' : 'border border-gray-200 dark:border-gray-700'}`}>
-              {plan.popular && <span className="bg-gold text-earth-900 text-xs font-bold px-4 py-1.5 rounded-full uppercase absolute -top-4 left-1/2 -translate-x-1/2">{dict.standard</span>}
+              {plan.popular && <span className="bg-gold text-earth-900 text-xs font-bold px-4 py-1.5 rounded-full uppercase absolute -top-4 left-1/2 -translate-x-1/2">{dict.standard}</span>
               <div className="text-center">
                 <h3 className="text-3xl font-serif text-earth-900 dark:text-white">{dict[`${plan.key}_title`]}</h3>
                 <p className="text-4xl font-extrabold my-4 text-earth-900 dark:text-white">
