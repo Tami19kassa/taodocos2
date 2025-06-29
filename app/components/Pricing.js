@@ -25,7 +25,7 @@ export default function Pricing({ dict }) {
                 <h3 className="text-3xl font-serif text-earth-900 dark:text-white">{dict[`${plan.key}_title`]}</h3>
                 <p className="text-4xl font-extrabold my-4 text-earth-900 dark:text-white">
                   {dict[`${plan.key}_price`] || plan.price}
-                  <span className="text-base font-medium text-gray-500 dark:text-gray-400">/{dict.month}</span>
+                  <span className="text-base font-medium text-gray-500 dark:text-gray-400">/{dict.month} ({dict.hours})</span>
                 </p>
               </div>
               <ul className="space-y-4 text-gray-600 dark:text-gray-400 my-8">

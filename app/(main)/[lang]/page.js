@@ -12,6 +12,7 @@ import MezmurSamples from '@/app/components/MezmurSamples'
 import Testimonials from '@/app/components/Testimonials'
 import Contact from '@/app/components/Contact'
 import Footer from '@/app/components/Footer'
+import OurStudentPerformance from '@/app/components/OurStudentPerformance'
 
 export default async function Home({ params }) {
   const lang = params.lang;
@@ -29,6 +30,7 @@ export default async function Home({ params }) {
          
         <MezmurSamples dict={dict.mezmur} />
         <Testimonials dict={dict.testimonials} lang={lang} />
+        <OurStudentPerformance dict={dict.performance} />
         <Contact dict={dict.contact} />
       </main>
       <Footer dict={dict.footer} />
