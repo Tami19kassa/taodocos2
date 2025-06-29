@@ -13,6 +13,11 @@ const studentPerformances = [
     titleKey: 'ክፍል 46 ባርከን ባርከን የበገና መዝሙር', 
     performerKey: 'performance1_performer' 
   },
+  { 
+    id: 'xTaCqlqQPYI', // Placeholder - REPLACE
+    titleKey: '', 
+    performerKey: 'performance1_performer' 
+  },
   
 ];
 
