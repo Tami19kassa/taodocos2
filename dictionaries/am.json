@@ -62,7 +62,8 @@
     "premium_feature3": "ቅድሚያ የጊዜ ሰሌዳ",
     "cta": "አሁኑኑ ይጀምሩ",
     "month": "ወር",
-    "standard":"የብዙዎች ምርጫ"
+    "standard":"የብዙዎች ምርጫ",
+    "hours":"ጠቅላላ 12 ሰአታት"
   },
   "gallery": {
     "title": "ማህበረሰባችን በዜማ"
@@ -70,12 +71,35 @@
   "testimonials": {
     "title": "ተማሪዎቻችን ስለ እኛ ምን ይላሉ"  
   },
+  
   "contact": {
-    "title": "ያግኙን",
-    "subtitle": "ጥያቄዎች አሉዎት? ከእርስዎ መስማት እንፈልጋለን። በኢሜል ይላኩልን ወይም በቀጥታ በቴሌግራም ያግኙኝ።",
-    "email_cta": "ኢሜል ይላኩ",
-    "telegram_cta": "በቴሌግራም ያውሩን"
+    "title": "ተገናኙ",
+    "subtitle": "ጥያቄዎች አሉዎት? ከእርስዎ መስማት እንፈልጋለን። በኢሜል ይድረሱን ወይም በቀጥታ በቴሌግራም ያግኙኝ።",
+    "form_name": "ስምዎ",
+    "form_email": "የእርስዎ ኢሜይል",
+    "form_message": "የእርስዎ መልዕክት",
+    "form_sending": "በመላክ ላይ...",
+    "email_cta": "መልዕክት ላክ",
+    "or": "ወይም",
+    "telegram_cta": "በቴሌግራም መልዕክት ይላኩ",
+    "success_message": "እናመሰግናለን! መልዕክትዎ በተሳካ ሁኔታ ተልኳል።",
+    "error_message": "ይቅርታ፣ የሆነ ስህተት ተፈጥሯል። እባክዎ ቆይተው እንደገና ይሞክሩ።"
   },
+  
+
+  "performance": {
+    "title": "የተማሪዎች ሥራ",
+    "subtitle": "ጎበዝ ተማሪዎቻችን የበገናን ጥበብ ሲለማመዱ የሚፈጥሯቸውን ውብ ድምፆች ያዳምጡ።",
+    "by": "በ፡",
+    "performance1_title": "ክላሲካል ዜማ",
+    "performance1_performer": "ተማሪ ስም አንድ",
+    "performance2_title": "የምስጋና መዝሙር",
+    "performance2_performer": "ተማሪ ስም ሁለት",
+    "performance3_title": "የረጋ የማታ መዝሙር",
+    "performance3_performer": "ተማሪ ስም ሶስት"
+  
+},
+
   "footer": {
     "copyright": "የበገና ትምህርት። ሁሉም መብቶች የተጠበቁ ናቸው።"
   }

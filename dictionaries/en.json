@@ -62,7 +62,8 @@
     "premium_feature3": "Priority Scheduling",
     "cta": "Get Started",
     "month":"month",
-    "standard":"standard"   
+    "standard":"standard",
+    "hours":"total 12 hours" 
   },
   "gallery": {
     "title": "Our Community in Harmony"
@@ -74,12 +75,32 @@
     "student2_name": "Daniel M.",
     "student2_review": "\"The individual lessons are fantastic. I've progressed so much faster than I expected. Highly recommend to anyone serious about learning.\""
   },
+ 
   "contact": {
     "title": "Get in Touch",
     "subtitle": "Have questions? We'd love to hear from you. Reach out via email or connect with me directly on Telegram.",
-    "email_cta": "Send Us an Email",
-    "telegram_cta": "Chat on Telegram"
+    "form_name": "Your Name",
+    "form_email": "Your Email",
+    "form_message": "Your Message",
+    "form_sending": "Sending...",
+    "email_cta": "Send Message",
+    "or": "or",
+    "telegram_cta": "Message on Telegram",
+    "success_message": "Thank you! Your message has been sent successfully.",
+    "error_message": "Sorry, something went wrong. Please try again later."
   },
+   "performance": {
+    "title": "Student Performances",
+    "subtitle": "Listen to the beautiful sounds created by our talented students as they master the art of the Begena.",
+    "by": "Performed by:",
+    "performance1_title": "Classical Melody",
+    "performance1_performer": "Student Name One",
+    "performance2_title": "Hymn of Praise",
+    "performance2_performer": "Student Name Two",
+    "performance3_title": "Serene Evening Song",
+    "performance3_performer": "Student Name Three"
+  },
+
   "footer": {
     "copyright": "Begena Lessons. All Rights Reserved."
   }
